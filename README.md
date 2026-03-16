@@ -28,8 +28,7 @@
 
 | Login Page | Home Page | Private Chat |
 |:-------------------------------:|:---------------------------------:|:-----------------------------:|
-| ![Login](screenshots/Login.png) | ![Home](screenshots/HomePage.png) | ![Chat](screenshots/Chat.png) |`
-`
+| ![Login](Login.jpg) | ![Home](HomePage.jpg) | ![Chat](Chat.jpg) |`
 
 
 
