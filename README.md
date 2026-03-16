@@ -22,4 +22,14 @@
 * **State Management:** StatefulWidget & StreamBuilder
 * **Networking:** Http package for Cloudinary API
 
+---
+
+## 📸 Screenshots (معرض الصور)
+
+| Login Page | Home Page | Private Chat |
+|:-------------------------------:|:---------------------------------:|:-----------------------------:|
+| ![Login](screenshots/Login.png) | ![Home](screenshots/HomePage.png) | ![Chat](screenshots/Chat.png) |`
+`
+
+
 
